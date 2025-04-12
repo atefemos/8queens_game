@@ -2,6 +2,21 @@
 
 A new Flutter project for Sofie company.
 
+First view:
+
+<img width="282" alt="Screenshot 2025-04-12 at 17 41 21" src="https://github.com/user-attachments/assets/2f4a1c25-2868-4e3f-8ef3-73846b2fe728" />
+
+Wrong cell:
+
+<img width="259" alt="Screenshot 2025-04-12 at 17 41 34" src="https://github.com/user-attachments/assets/c25434da-2e12-4e47-a76b-776ec319a544" />
+<img width="250" alt="Screenshot 2025-04-12 at 17 41 47" src="https://github.com/user-attachments/assets/4474f091-2dc2-4b9c-9d67-1a88e90db154" />
+
+
+Solved:
+
+<img width="265" alt="Screenshot 2025-04-12 at 17 48 23" src="https://github.com/user-attachments/assets/a9fbf679-4526-494a-b37b-cdc43746a9f5" />
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
